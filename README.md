@@ -1,6 +1,6 @@
 # qufas-tokeneconomizer
 
-**We kill reset.\***
+**We kill the waste, not your flow.\***
 
 Offload long-log summaries, error explanations, translation, commit messages and draft tests from your coding agent (Claude Code, Codex) to a cheaper model, through any OpenAI-compatible gateway: Qufas, OpenRouter, LiteLLM, Ollama and others.
 
